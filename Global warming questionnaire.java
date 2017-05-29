@@ -1,5 +1,3 @@
-
-    package javaapplication1;
     import javax.swing.JOptionPane;
 
     public class Aquecimento_Global {
