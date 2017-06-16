@@ -1,7 +1,6 @@
-
-package javaapplication1;
 import javax.swing.JOptionPane;
 import java.util.Random;
+
 public class AjudaMatemática {
     private static final Random NúmerosAleatórios = new Random ();
     
